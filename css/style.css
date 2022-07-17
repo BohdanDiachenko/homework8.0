@@ -48,7 +48,6 @@ body{
     color: #426692;
     box-shadow: 0px 2px 0px 0px rgba(209,209,209,0.75);
 }
-
 .start__page-content {
     max-width: 540px;
     line-height: 140%;
@@ -92,7 +91,6 @@ body{
 .arrow img{
     width: 100%;
 }
-
 .arrow.two {
     opacity: 0;
     animation-delay: 2s;
