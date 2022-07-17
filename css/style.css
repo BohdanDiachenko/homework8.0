@@ -161,6 +161,7 @@ body{
 iframe{
     width: 1116px;
     height: 626px;
+    border: 0;
 }
 .footer__content h5{
     margin: 0;
