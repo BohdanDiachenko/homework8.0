@@ -21,6 +21,7 @@ p{
 body{
     font-family: Roboto;
     color: black;
+
 }
 .header {
     height: 100vh;
@@ -60,6 +61,7 @@ body{
     font-size: 48px;
     font-weight: 500;
     margin: 0 0 60px;
+    line-height: 78px;
 }
 .start__page-content p{
     margin-bottom: 65px;
@@ -130,6 +132,18 @@ body{
 .about__my-work > *{
     text-align: center;
 }
+.about__my-title,
+.about__me-title {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.5px;
+}    
+.about__my-text,
+.about__me-text {
+    font-size: 16px;
+    line-height: 26.25px;
+    font-weight: 400;
+}  
 .section__project,
 .footer{
     background-color: #34547A;
@@ -158,6 +172,8 @@ body{
     display: inline-block;
     font-size: 21px;
     margin-bottom: 10px;
+    font-weight: 500;
+    line-height: 24.61px;
 }
 .project__list p{
     margin: 0;
@@ -176,7 +192,8 @@ iframe{
     padding-top: 50px;
     color: #fff;
     font-size: 21px;
-    font-weight: 400;
+    font-weight: 500;
+    line-height: 24.61px;
 }
 .footer__content p{
     margin: 0;
@@ -184,4 +201,5 @@ iframe{
     color: #fff;
     font-size: 13px;
     font-weight: 400;
+    line-height: 21.33px;
 }
